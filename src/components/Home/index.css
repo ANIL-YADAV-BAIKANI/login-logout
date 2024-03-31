@@ -1,0 +1,16 @@
+.bg-container {
+  background-color: #f8fafc;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text-container {
+  background-image: linear-gradient(to bottom, #2b2c49 10%, #b5b9ff 80%);
+  border-radius: 10px;
+  text-align: center;
+  padding: 65px;
+  
+}
+
